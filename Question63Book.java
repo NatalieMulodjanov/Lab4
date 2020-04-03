@@ -1,12 +1,14 @@
 /**
- * This program will validate the user ID only if it is exactly 2 digits 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 package lab4;
 
 import java.util.Scanner;
 
 /**
- *
+ * This program will validate the user ID only if it is exactly 2 digits 
  * @author Natalie Mulodjanov
  * @since 2020-04-01 
  */

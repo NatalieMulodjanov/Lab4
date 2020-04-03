@@ -1,14 +1,16 @@
 /**
- *This program will generate a random number between 0 and 100 and ask the user 
- *to guess this number. if the guess is correct, the user will be asked if they want 
- *to play again. if the guess is incorrect, the game will end. 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 package lab4;
 
 import java.util.Scanner;
 
 /**
- *
+ * This program will generate a random number between 0 and 100 and ask the user 
+ * to guess this number. if the guess is correct, the user will be asked if they want 
+ * to play again. if the guess is incorrect, the game will end. 
  * @author Natalie Mulodjanov
  * @since 2020-04-01 
  */

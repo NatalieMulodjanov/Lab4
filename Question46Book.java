@@ -1,11 +1,13 @@
 /**
- * Program to calculate the sum of all integers between 10 and 20.
- * Question 46 from the Book Java Illuminated, chapter 6. 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 package lab4;
 
 /**
- *
+ * Program to calculate the sum of all integers between 10 and 20.
+ * Question 46 from the Book Java Illuminated, chapter 6. 
  * @author Natalie Mulodjanobv
  * @since 2020-04-01 
  */

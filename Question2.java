@@ -1,14 +1,16 @@
 /**
- * This program will validate an email input from the user.
- * The email will only be validated if it contains '@' and then '.' .
- * A valid email is of format: example@example.com or example@example.example.com
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 package lab4;
 
 import java.util.Scanner;
 
 /**
- *
+ * This program will validate an email input from the user.
+ * The email will only be validated if it contains '@' and then '.' .
+ * A valid email is of format: example@example.com or example@example.example.com
  * @author Natali Mulodjanov
  * @since 2020-04-01 
  */

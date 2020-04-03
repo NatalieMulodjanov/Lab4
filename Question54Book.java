@@ -1,13 +1,15 @@
 /**
- * This program will get as input 10 exam grades. with these grades it will 
- * calculate the minimum grade, maximum grade and average of all grades.
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 package lab4;
 
 import java.util.Scanner;
 
 /**
- *
+ * This program will get as input 10 exam grades. with these grades it will 
+ * calculate the minimum grade, maximum grade and average of all grades.
  * @author Natalie Mulodjanov
  * @since 2020-04-01 
  */

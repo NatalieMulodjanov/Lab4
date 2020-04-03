@@ -8,7 +8,9 @@ package lab4;
 import java.util.Scanner;
 
 /**
- *
+ * This program will check if a word is a palindrome or not. After getting the 
+ * user input, the program will remove the spaces and trim the word and then inverse
+ * it to check if the inverse form matches the original form. 
  * @author Natalie Mulodjanov
  * @since 2020-04-01 
  */
