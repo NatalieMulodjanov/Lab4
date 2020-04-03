@@ -27,21 +27,21 @@ public class Question1 {
         
         String stringToCheck = input.nextLine();
          
-        String stringNoSpace = stringToCheck.replaceAll(" ","");
+        String stringNoSpace = (stringToCheck.replaceAll(" ","")).toLowerCase();
         
         String reversed = "";
         
         for (i = stringNoSpace.length() - 1; i >= 0; i--){
-          reversed = reversed + stringNoSpace.charAt(i);
+            reversed = reversed + stringNoSpace.charAt(i);
             
-        }
-        System.out.println("The string you have input is: " + stringToCheck);
-        System.out.println("Your string reversed is: " + reversed);
-        
-        if(reversed.equals(stringNoSpace)){
-           System.out.println("The string you have input is a Palindrome");
-        }else System.out.println("The string you have input is not a Palindrome");
-   
-        System.out.println("Thank you for using the application, Goodbye!");
+            }
+            System.out.println("The string you have input is: " + stringToCheck);
+            System.out.println("Your string reversed is: " + reversed);
+
+            if(reversed.equals(stringNoSpace)){
+               System.out.println("The string you have input is a Palindrome");
+            }else System.out.println("The string you have input is not a Palindrome");
+
+            System.out.println("Thank you for using the application, Goodbye!");
     }
 }
